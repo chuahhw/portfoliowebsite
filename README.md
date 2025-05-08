@@ -1,16 +1,16 @@
 # Portfolio website
-This is a responsive personal portfolio website built using HTML, CSS, and JavaScript. It showcases key information such as an introduction, background, and featured projects. The website is designed with clean, semantic HTML5 elements, styled using modern CSS (Flexbox and Grid), and includes a touch of interactivity with JavaScript.
-
-Live demo of the website: : https://webprogramasg2.web.app/ 
+This is a responsive personal portfolio website built using HTML, CSS, and JavaScript, and hosted with Firebase Hosting. The site highlights personal information, skills, and projects in a clean, modern layout.
 
 ✨ Features:
 
-- Responsive design for desktop and mobile
+Responsive design for desktop and mobile devices
 
-- Interactive navigation bar
+Semantic HTML5 and modern CSS (Flexbox & Grid)
 
-- Organized project showcase
+Interactive navigation using JavaScript
 
-- Clean and accessible layout
+Organized project section
 
-- Semantic HTML structure
+Deployed via Firebase Hosting for fast and secure delivery
+
+🔗 Live Demo: https://webprogramasg2.web.app/
